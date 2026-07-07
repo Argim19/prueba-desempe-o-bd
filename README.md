@@ -4,7 +4,7 @@
 
 This project was developed to organize and normalize a dataset provided in Microsoft Excel format. The original data contained duplicated records, inconsistent values and redundant information, making it difficult to manage and query.
 
-The main objective of this project was to analyze the dataset, apply the first three normal forms (1NF, 2NF and 3NF), design an Entity Relationship Model (ERM), implement the database in PostgreSQL/MySQL and create SQL queries that solve different business requirements.
+The main objective of this project was to analyze the dataset, apply the first three normal forms (1NF, 2NF and 3NF), design an Entity Relationship Model (ERM), implement the database in PostgreSQL and create SQL queries that solve different business requirements.
 
 ---
 
@@ -130,12 +130,6 @@ project/
 
 **GitHub Repository:**
 
-https://github.com/your-user/your-repository
+https://github.com/Argim19/prueba-desempe-o-bd.git
 
 ---
-
-# Conclusions
-
-This project demonstrates the complete process of analyzing, normalizing and implementing a relational database from an unstructured dataset.
-
-The final database reduces redundancy, improves data consistency and allows reliable SQL queries for business decision making.
